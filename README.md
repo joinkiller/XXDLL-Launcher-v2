@@ -15,3 +15,21 @@
 Скачивайте обновление и ощутите, как должен работать идеальный лаунчер: быстрый, красивый и бесконечно удобный. Ваши отзывы помогут сделать его ещё круче!  
 
 ---
+
+_English:_
+
+**🚀 Minecraft Launcher v2.0 — A new level of speed and features!**  
+
+Greetings, players! I am proud to present ** the second version of my launcher**, completely redesigned from scratch! It's not just a renewal, it's a revolution:  
+
+✨ **Lightning fast launch**  
+No more long waits! Thanks to complete recoding and optimization, the launcher has become **faster by 50%**, and resource consumption has been reduced to a minimum. Now you're in the game before you can say "Creeper"!  
+
+🎨 **Modern design**  
+Forget about template interfaces! The clean, stylish and intuitive design with smooth animations will delight even the most discerning users. Dark and light themes, custom wallpapers, adaptive layout — now everything works perfectly.  
+
+---  
+**🎮 Upgrade to v2.0 — your Minecraft deserves the best!**  
+Download the update and experience how the perfect launcher should work: fast, beautiful and infinitely convenient. Your feedback will help make it even cooler!  
+
+---
