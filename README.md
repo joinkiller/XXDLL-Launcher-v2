@@ -17,8 +17,6 @@
 ---
 ---
 
-_English:_
-
 **🚀 Minecraft Launcher v2.0 — A new level of speed and features!**  
 
 Greetings, players! I am proud to present ** the second version of my launcher**, completely redesigned from scratch! It's not just a renewal, it's a revolution:  
